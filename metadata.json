@@ -1,0 +1,6 @@
+{
+  "name": "PDF Maker",
+  "description": "PDF Maker – Image to PDF: Scan documents, apply photo filters, customize PDF layouts, and manage PDFs offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

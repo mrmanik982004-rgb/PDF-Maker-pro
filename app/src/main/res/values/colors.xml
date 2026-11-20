@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pdf_crimson">#FFD92638</color>
+    <color name="pdf_navy">#FF0F172A</color>
+    <color name="pdf_teal">#FF0D9488</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

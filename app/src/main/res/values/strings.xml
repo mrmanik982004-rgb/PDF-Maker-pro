@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDF Maker</string>
+    <string name="app_subtitle">Image to PDF</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_library">My PDFs</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+</resources>
